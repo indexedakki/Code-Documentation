@@ -1,4 +1,4 @@
-🚀 Pushing Your Code to GitHub: A Step-by-Step Guide 🚀
+# 🚀 Pushing Your Code to GitHub: A Step-by-Step Guide 🚀
 1. 🌟 Create a New Repository on GitHub 🌟
 🔍 Go to your GitHub account and click on the "+" sign in the top-right corner to create a new repository.
 📝 Follow the prompts to set it up.
@@ -55,7 +55,7 @@ git remote add origin <paste-the-copied-URL-here>
 git push -u origin main
 ```
 
-📁 Remove the .git Directory: A Quick Guide 📁
+# 📁 Remove the .git Directory: A Quick Guide 📁
 💻 For PowerShell Users 💻
 To remove the .git directory using PowerShell, execute the following command:
 ```bash
@@ -72,7 +72,7 @@ rmdir /s /q .git
 
 This command will silently (/q) remove the .git directory and all of its contents (/s).
 
-🔄 Changing the Remote Origin URL 🔄
+# 🔄 Changing the Remote Origin URL 🔄
 1. 🗑️ Remove the Existing Remote Origin 🗑️
 🔍 Before changing the remote origin URL, it's a good practice to remove the existing remote origin to avoid any conflicts. Use the following command to remove the existing remote named "origin":
 
